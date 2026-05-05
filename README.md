@@ -1,7 +1,7 @@
 # 👋 Hola, soy Bryan Ore Areche
 
 🎓 Estudiante de Ingeniería de Sistemas de Información (UPC)  
-💻 Apasionado por el desarrollo web y la ingeniería de software  
+💻 Apasionado por el desarrollo web y la ingeniería de sistemas
 📍 Lima, Perú  
 
 ---
