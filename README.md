@@ -1,5 +1,13 @@
 # 👋 ¡Hola! Soy Bryan Ore Areche
 
+## 📫 Conéctate conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-ore-areche-8a8b10234/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portafolio-bryan-ore.netlify.app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryanore7531@gmail.com)
+
+---
+
 🎓 **Estudiante de Ingeniería de Sistemas de Información** – *UPC (Universidad Peruana de Ciencias Aplicadas)*  
 💻 Apasionado por el **desarrollo web** y la **ingeniería de sistemas**  
 📍 Lima, Perú
@@ -23,6 +31,7 @@ Desarrollador con experiencia en proyectos web reales, enfocado en crear **soluc
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,6 +43,7 @@ Desarrollador con experiencia en proyectos web reales, enfocado en crear **soluc
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### Bases de datos
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -75,18 +85,10 @@ Desarrollador con experiencia en proyectos web reales, enfocado en crear **soluc
 ## 📈 Actualmente
 
 - 🚀 Desarrollando proyectos modernos con **React** y **Next.js**.
+- 🐘 Profundizando en **PHP con Laravel** para backend robusto y escalable.
 - 🤖 Aprendiendo **Machine Learning** aplicado al sector educativo.
 - 📝 Compartiendo mi aprendizaje y código abierto en GitHub.
 
 ---
 
-## 📫 ¿Hablamos?
-
-📧 **bryanore7531@gmail.com**  
-🔗 [**LinkedIn**](https://www.linkedin.com/in/bryan-ore-areche-8a8b10234/)  
-💻 [**Portafolio**](https://portafolio-bryan-ore.netlify.app)
-
----
-
 ⭐ *"Construir soluciones reales es mi forma de aportar al mundo. Siempre abierto a colaborar y aprender."*
-
