@@ -2,9 +2,9 @@
 
 ## 📫 Conéctate conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-ore-areche-8a8b10234/)
-[![Portafolio](https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portafolio-bryan-ore.netlify.app)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryanore7531@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-ore-areche-8a8b10234/){target="_blank"}
+[![Portafolio](https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portafolio-bryan-ore.netlify.app){target="_blank"}
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryanore7531@gmail.com){target="_blank"}
 
 ---
 
@@ -17,8 +17,6 @@
 ## ✨ Sobre mí
 
 Desarrollador con experiencia en proyectos web reales, enfocado en crear **soluciones eficientes** para entornos empresariales. Me especializo en **frontend**, **backend** y **bases de datos**, y me encanta transformar ideas en productos funcionales que generen valor.
-
-> ⚡ *Siempre aprendiendo, construyendo y compartiendo conocimiento.*
 
 ---
 
@@ -73,12 +71,12 @@ Desarrollador con experiencia en proyectos web reales, enfocado en crear **soluc
 ### 🛒 **La Alpaca Madrileña** – *E-commerce en Shopify*
 - Tienda online funcional con **HTML, CSS, JavaScript y Liquid**.
 - Optimización de experiencia de usuario (UX), logrando mayor retención y conversión.
-- 🔗 [Visitar sitio](https://laalpacamadrilena.com)
+- 🔗 [Visitar sitio](https://laalpacamadrilena.com){target="_blank"}
 
 ### 🌐 **Web Corporativa NOOVA**
 - Sitio construido con **WordPress + Elementor**.
 - Personalizaciones en **PHP y JS** para adaptar funcionalidades a medida.
-- 🔗 [Visitar sitio](https://noovasac.com)
+- 🔗 [Visitar sitio](https://noovasac.com){target="_blank"}
 
 ---
 
@@ -91,4 +89,3 @@ Desarrollador con experiencia en proyectos web reales, enfocado en crear **soluc
 
 ---
 
-⭐ *"Construir soluciones reales es mi forma de aportar al mundo. Siempre abierto a colaborar y aprender."*
